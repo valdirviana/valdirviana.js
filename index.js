@@ -6,7 +6,7 @@ module.exports = () => ({
   bio: 'Estou na área de TI a mais de 10 anos, sempre trabalhei com tecnologias web. Atualmente sou Engenheiro de Software Sênior na UOL/BoaCompra.',
   github: 'https://github.com/dotenorio',
   twitter: 'https://twitter.com/dotenorio',
-  linkedin: 'https://www.linkedin.com/in/dotenorio',
+  linkedin: 'https://www.linkedin.com/in/fernando-migliorini-877a29175',
   facebook: 'https://www.facebook.com/dotenorio',
   telegram: 'https://telegram.me/dotenorio',
   email: 'dotenorio@gmail.com',
