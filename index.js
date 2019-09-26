@@ -6,7 +6,7 @@ module.exports = () => ({
   bio: 'Estou na área de TI já a mais de 10 anos, sempre trabalhei com tecnologias web e geralmente com Javascript, tanto para o front como para o backend. Atualmente trabalho como Desenvolvedor de Infraestrutura na Mandic (Rivendel).',
   github: 'https://github.com/dotenorio',
   twitter: 'https://twitter.com/dotenorio',
-  linkedin: 'https://www.linkedin.com/in/fernando-migliorini-877a29175',
+  linkedin: 'https://www.linkedin.com/in/dotenorio',
   facebook: 'https://www.facebook.com/dotenorio',
   telegram: 'https://telegram.me/dotenorio',
   email: 'dotenorio@gmail.com',
