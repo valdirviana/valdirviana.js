@@ -1,13 +1,13 @@
 {
   "name": "valdirviana",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "node bin.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotenorio/dotenorio.js.git"
+    "url": "git+https://github.com/valdirviana/valdirviana.js.git"
   },
   "keywords": [
     "valdirviana",
@@ -19,7 +19,7 @@
     "url": "https://github.com/valdirviana/valdirviana.js/issues"
   },
   "bin": {
-    "dotenorio": "bin.js"
+    "valdirviana": "bin.js"
   },
   "homepage": "https://github.com/valdirviana/valdirviana.js#readme",
   "dependencies": {}
