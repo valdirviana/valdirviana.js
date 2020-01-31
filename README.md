@@ -43,7 +43,7 @@ npm i -g valdirviana
 
 👤 **@valdirviana**
 
-- Twitter: [@valdirviana](https://twitter.com/valdir_viana)
+- Twitter: [@valdir_viana](https://twitter.com/valdir_viana)
 - Github: [@valdirviana](https://github.com/valdirviana)
 
 ## 🤝 Contributing
